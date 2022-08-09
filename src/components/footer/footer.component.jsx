@@ -30,11 +30,7 @@ const FooterComponent = () => {
               Contact Us
             </Nav.Link>
           </Nav.Item>
-          <Nav.Item as="li" className="ml-md-auto mr-auto mr-md-0">
-            <Nav.Link href="https://twitter.com/code_wonders">
-              @codewonders
-            </Nav.Link>
-          </Nav.Item>
+          <Nav.Item as="li" className="ml-md-auto mr-auto mr-md-0"></Nav.Item>
         </Nav>
       </div>
     </FooterLayout>
